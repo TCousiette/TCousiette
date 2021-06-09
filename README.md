@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TCousiette
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning SQL and noSQL
+- 🌱 I’m currently working on my portfolio.
 - 📫 How to reach me tiimonk@gmail.com
 
 My projects :
