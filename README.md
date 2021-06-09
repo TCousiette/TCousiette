@@ -9,6 +9,7 @@ My projects :
 - https://tcousiette.github.io/DrumKit/
 - https://tcousiette.github.io/Bootstrap-demonstration/
 - https://tcousiette.github.io/gh-react/
+- https://tcousiette.github.io/Calculator/
 
 <!---
 TCousiette/TCousiette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
