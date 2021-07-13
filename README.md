@@ -8,7 +8,7 @@ My projects :
 - https://tcousiette.github.io/TinDog/
 - https://tcousiette.github.io/DrumKit/
 - https://tcousiette.github.io/Bootstrap-demonstration/
-- https://tcousiette.github.io/Keeper-app/
+- https://tcousiette.github.io/Keeper-app/ WIP
 - https://tcousiette.github.io/Calculator/
 
 <!---
