@@ -10,7 +10,7 @@ My projects :
 - https://tcousiette.github.io/Bootstrap-demonstration/
 - https://tcousiette.github.io/Keeper-app/ WIP
 - https://tcousiette.github.io/Calculator/
-
+- https://tcousiette.github.io/ticktactoe/
 <!---
 TCousiette/TCousiette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
