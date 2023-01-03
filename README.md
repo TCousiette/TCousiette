@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TCousiette
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working on my portfolio.
-- 📫 How to reach me tiimonk@gmail.com
+- 👋 Hi, I’m Timur - recent graduate with experience in Procurement and Marketing.
+- This is my hobbie page with a bunch of projects I did in my free time.
+- Feel free to explore)
+- You can reach me via email - tiimonk@gmail.com
 
 My projects :
 - https://tcousiette.github.io/Simon-Game/
